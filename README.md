@@ -62,7 +62,7 @@ cd secure-password-generator-2025-v1
 
 bash
 
-```python3 src/passgen.py```
+```python3 passgen.py```
 
 **Output:**
 
