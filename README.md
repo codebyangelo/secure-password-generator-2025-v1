@@ -132,3 +132,5 @@ Angelo Ayton - Security Systems Architect
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+**Copyright 2025 Angelo Ayton**
