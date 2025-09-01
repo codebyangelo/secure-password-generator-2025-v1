@@ -54,7 +54,7 @@ Python 3.6+ (Required for the secrets module and zoneinfo).
 bash
 
 ```
-git clone https://github.com/codebyangelo/secure-password-generator-2025-v1
+git clone https://github.com/codebyangelo/secure-password-generator-2025-v1.git
 cd secure-password-generator-2025-v1
 ```
 
